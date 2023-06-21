@@ -33,33 +33,34 @@ namespace ProjectStock
         /// Ширина коробки в сантиметрах.
         /// </summary>
         public float Width { get { return _width; } }
+        private float _height;
         /// <summary>
         /// Высота коробки в сантиметрах.
         /// </summary>
-        private float _height;
         public float Height { get { return _height; } }
+        private float _depth;
         /// <summary>
         /// Глубина коробки в сантиметрах.
         /// </summary>
-        private float _depth;
         public float Depth { get { return _depth; } }
+        private float _mass;
         /// <summary>
         /// Масса коробки в килограммах.
         /// </summary>
-        private float _weight;
-        public float Weight { get { return _weight; } }
+        public float Mass { get { return _mass; } }
 
         /// <summary>
         /// Новый экземпляр коробки. Необходимо передать минимум один параметр даты: или дату производства, или дату окончания срока годности.
         /// </summary>
+        /// <param name="id">Номер коробки в системе.</param>
         /// <param name="width">Ширина в сантиметрах.</param>
         /// <param name="height">Высота в сантиметрах.</param>
         /// <param name="depth">Глубина в сантиметрах.</param>
-        /// <param name="weight">Вес в килограммах.</param>
+        /// <param name="mass">Вес в килограммах.</param>
         /// <param name="date_production">Дата производства.</param>
         /// <param name="date_expiration">Дата, когда заканчивается срок годности.</param>
         /// <exception cref="ArgumentException">Необходимо передать минимум один параметр даты: или дату производства, или дату окончания срока годности.</exception>
-        public Box(float width, float height, float depth, float weight, DateTime? date_production = null, DateTime? date_expiration = null) {
+        public Box(ulong id, float width, float height, float depth, float mass, DateTime? date_production = null, DateTime? date_expiration = null) {
             if (date_production != null && date_expiration == null)
             {
                 _date_production = (DateTime)date_production;
@@ -75,12 +76,13 @@ namespace ProjectStock
                 _date_production = (DateTime)date_expiration;
                 _date_expiration = (DateTime)date_expiration;
             }
-            else { throw new ArgumentException("Пожалуйста, укажите дату производства или дату окончания срока годности"); }   
+            else if(date_production >= date_expiration) throw new ArgumentException("Некорректная дата производства или срока годности! Дата производства должна быть меньше даты окончания срока годности.");
+            else throw new ArgumentException("Некорректные параметры дат. Укажите дату производства или дату окончания срока годности."); 
 
             _width = width;
             _height = height;
             _depth = depth;
-            _weight = weight;
+            _mass = weight;
         }
 
         /// <summary>
@@ -93,4 +95,5 @@ namespace ProjectStock
         }
 
     }
+
 }
