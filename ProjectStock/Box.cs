@@ -11,6 +11,9 @@ namespace ProjectStock
     /// </summary>
     internal class Box
     {
+        private ulong _id;
+        public ulong ID { get { return _id; } }
+
         /// <summary>
         /// Срок годности продукта в днях от даты производства.
         /// </summary>
@@ -79,10 +82,11 @@ namespace ProjectStock
             else if(date_production >= date_expiration) throw new ArgumentException("Некорректная дата производства или срока годности! Дата производства должна быть меньше даты окончания срока годности.");
             else throw new ArgumentException("Некорректные параметры дат. Укажите дату производства или дату окончания срока годности."); 
 
+            _id = id;
             _width = width;
             _height = height;
             _depth = depth;
-            _mass = weight;
+            _mass = mass;
         }
 
         /// <summary>

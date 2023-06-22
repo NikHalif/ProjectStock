@@ -13,7 +13,7 @@ namespace ProjectStock
     internal class Pallet
     {
         private ulong _id;
-        public ulong Id { get { return _id; } }
+        public ulong ID { get { return _id; } }
         /// <summary>
         /// Высота поддона паллеты.
         /// </summary>
@@ -123,7 +123,18 @@ namespace ProjectStock
         /// Получение даты окончания срока годности для паллеты. 
         /// </summary>
         /// <returns>Минимальная дата окончания срока годности из коробок на паллете.</returns>
-        public DateTime GetDateExpiration() => _boxes.Min(t => t.DateExpiration);
+        public DateTime? GetDateExpiration()
+        {
+            try
+            {
+                return _boxes.Min(t => t.DateExpiration);
+            }
+            catch (InvalidOperationException)
+            {
+                return null;
+            }
+        }
 
     }
+
 }
