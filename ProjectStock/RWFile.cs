@@ -12,6 +12,10 @@ namespace ProjectStock
     {
         public static readonly string file_name = "data.json";
 
+        /// <summary>
+        /// Сохранение данных паллет в файл по умолчанию.
+        /// </summary>
+        /// <param name="_pallets">Список паллет.</param>
         public static void WriteFile(List<Pallet> _pallets)
         {
             try
@@ -25,6 +29,10 @@ namespace ProjectStock
             Console.ReadLine();
         }
 
+        /// <summary>
+        /// Загрузка списка паллет из файла по умолчанию.
+        /// </summary>
+        /// <returns>Список паллет, если найдены. В случае ошибки NULL, в случае отсутствия данных пустой список.</returns>
         public static List<Pallet>? ReadFile()
         {
             List<Pallet>? pallets = null;
