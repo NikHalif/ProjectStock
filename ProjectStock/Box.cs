@@ -9,10 +9,15 @@ namespace ProjectStock
     /// <summary>
     /// Коробка склада 
     /// </summary>
-    internal class Box
+    public class Box
     {
         private ulong _id;
-        public ulong ID { get { return _id; } }
+        public ulong ID { get { return _id; }
+            set
+            {
+                if (value != _id)
+                    _id = value;
+            } }
 
         /// <summary>
         /// Срок годности продукта в днях от даты производства.
@@ -23,34 +28,63 @@ namespace ProjectStock
         /// <summary>
         /// Дата производства 
         /// </summary>
-        public DateTime DateProduction { get { return _date_production; } }
+        public DateTime DateProduction { 
+            get { return _date_production; } 
+            set { if (value != _date_production) _date_production = value; } }
 
         private DateTime _date_expiration;
         /// <summary>
         /// Дата, когда заканчивается срок годности.
         /// </summary>
-        public DateTime DateExpiration { get { return _date_expiration; } }
+        public DateTime DateExpiration { 
+            get { return _date_expiration; } 
+            set { if (value != _date_expiration) _date_expiration = value; } }
 
         private float _width;
         /// <summary>
         /// Ширина коробки в сантиметрах.
         /// </summary>
-        public float Width { get { return _width; } }
+        public float Width { get { return _width; }
+            set
+            {
+                if (value != _width)
+                    _width = value;
+            } }
         private float _height;
         /// <summary>
         /// Высота коробки в сантиметрах.
         /// </summary>
-        public float Height { get { return _height; } }
+        public float Height { get { return _height; }
+            set
+            {
+                if (value != _height)
+                    _height = value;
+            } }
         private float _depth;
         /// <summary>
         /// Глубина коробки в сантиметрах.
         /// </summary>
-        public float Depth { get { return _depth; } }
+        public float Depth { get { return _depth; }
+            set
+            {
+                if (value != _depth)
+                    _depth = value;
+            } }
         private float _mass;
         /// <summary>
         /// Масса коробки в килограммах.
         /// </summary>
-        public float Mass { get { return _mass; } }
+        public float Mass { get { return _mass; }
+            set
+            {
+                if (value != _mass)
+                    _mass = value;
+            } }
+
+        public Box()
+        {
+
+        }
 
         /// <summary>
         /// Новый экземпляр коробки. Необходимо передать минимум один параметр даты: или дату производства, или дату окончания срока годности.
@@ -97,6 +131,8 @@ namespace ProjectStock
         {
             return _depth*_width*_height;
         }
+
+
 
     }
 

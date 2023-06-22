@@ -10,10 +10,16 @@ namespace ProjectStock
     /// <summary>
     /// Паллета склада.
     /// </summary>
-    internal class Pallet
+    public class Pallet
     {
         private ulong _id;
-        public ulong ID { get { return _id; } }
+        public ulong ID { 
+            get { return _id; }
+            set
+            {
+                if (value != _id)
+                    _id = value;
+            } }
         /// <summary>
         /// Высота поддона паллеты.
         /// </summary>
@@ -24,23 +30,36 @@ namespace ProjectStock
         /// </summary>
         private float mass_pallet = 30;
 
-        private List<Box> _boxes;
-        /// <summary>
-        /// Список коробок на паллете.
-        /// </summary>
-        public List<Box> Boxes { get { return _boxes; } }
-
         private float _width;
         /// <summary>
         /// Ширина паллеты в сантиметрах.
         /// </summary>
-        public float Width { get { return _width; } }
+        public float Width { 
+            get { return _width; } 
+            set { if (value != _width) _width = value; } }
 
         private float _depth;
         /// <summary>
         /// Длина паллеты в сантиметрах.
         /// </summary>
-        public float Depth { get { return _depth; } }
+        public float Depth { 
+            get { return _depth; } 
+            set { if (value != _depth) _depth = value; } }
+
+        private List<Box> _boxes;
+        /// <summary>
+        /// Список коробок на паллете.
+        /// </summary>
+        public List<Box> Boxes
+        {
+            get { return _boxes; }
+            set { value.ForEach(b => this.Add(b)); }
+        }
+
+        public Pallet()
+        {
+            _boxes = new List<Box>();
+        }
 
         /// <summary>
         /// Экземпляр паллеты.

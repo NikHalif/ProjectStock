@@ -1,0 +1,1064 @@
+[
+  {
+    "ID": 0,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2014-08-15",
+        "DateExpiration": "2014-11-23",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 28
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2017-05-15",
+        "DateExpiration": "2017-08-23",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 35
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2014-08-27",
+        "DateExpiration": "2014-12-05",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 28
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2022-07-30",
+        "DateExpiration": "2022-11-07",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 28
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2018-12-06",
+        "DateExpiration": "2019-03-16",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 24
+      },
+      {
+        "ID": 5,
+        "DateProduction": "2014-03-14",
+        "DateExpiration": "2014-06-22",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 30
+      },
+      {
+        "ID": 6,
+        "DateProduction": "2015-06-18",
+        "DateExpiration": "2015-09-26",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 29
+      }
+    ]
+  },
+  {
+    "ID": 1,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2020-09-09",
+        "DateExpiration": "2020-12-18",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 32
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2016-01-27",
+        "DateExpiration": "2016-05-06",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 38
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2021-10-23",
+        "DateExpiration": "2022-01-31",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 27
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2017-07-01",
+        "DateExpiration": "2017-10-09",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 34
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2019-09-14",
+        "DateExpiration": "2019-12-23",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 31
+      }
+    ]
+  },
+  {
+    "ID": 2,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2019-04-03",
+        "DateExpiration": "2019-07-12",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 38
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2015-12-01",
+        "DateExpiration": "2016-03-10",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 23
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2021-05-27",
+        "DateExpiration": "2021-09-04",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 28
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2015-06-12",
+        "DateExpiration": "2015-09-20",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 20
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2018-03-27",
+        "DateExpiration": "2018-07-05",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 34
+      }
+    ]
+  },
+  {
+    "ID": 3,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2019-08-14",
+        "DateExpiration": "2019-11-22",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 32
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2023-03-22",
+        "DateExpiration": "2023-06-30",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 40
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2020-09-17",
+        "DateExpiration": "2020-12-26",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 26
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2022-02-25",
+        "DateExpiration": "2022-06-05",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 23
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2015-04-09",
+        "DateExpiration": "2015-07-18",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 24
+      },
+      {
+        "ID": 5,
+        "DateProduction": "2014-02-05",
+        "DateExpiration": "2014-05-16",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 40
+      }
+    ]
+  },
+  {
+    "ID": 4,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2020-11-22",
+        "DateExpiration": "2021-03-02",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 27
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2019-03-24",
+        "DateExpiration": "2019-07-02",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 37
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2021-10-09",
+        "DateExpiration": "2022-01-17",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 24
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2019-01-11",
+        "DateExpiration": "2019-04-21",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 32
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2021-02-04",
+        "DateExpiration": "2021-05-15",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 28
+      },
+      {
+        "ID": 5,
+        "DateProduction": "2014-02-05",
+        "DateExpiration": "2014-05-16",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 40
+      }
+    ]
+  },
+  {
+    "ID": 5,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2015-05-16",
+        "DateExpiration": "2015-08-24",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 24
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2017-09-25",
+        "DateExpiration": "2018-01-03",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 22
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2023-06-18",
+        "DateExpiration": "2023-09-26",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 36
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2017-01-15",
+        "DateExpiration": "2017-04-25",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 34
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2019-07-22",
+        "DateExpiration": "2019-10-30",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 38
+      },
+      {
+        "ID": 5,
+        "DateProduction": "2014-02-05",
+        "DateExpiration": "2014-05-16",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 40
+      }
+    ]
+  },
+  {
+    "ID": 6,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2015-08-30",
+        "DateExpiration": "2015-12-08",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 28
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2020-06-11",
+        "DateExpiration": "2020-09-19",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 38
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2021-04-18",
+        "DateExpiration": "2021-07-27",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 36
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2015-10-16",
+        "DateExpiration": "2016-01-24",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 26
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2019-09-30",
+        "DateExpiration": "2020-01-08",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 36
+      },
+      {
+        "ID": 5,
+        "DateProduction": "2014-03-12",
+        "DateExpiration": "2014-06-20",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 38
+      }
+    ]
+  },
+  {
+    "ID": 7,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2022-09-30",
+        "DateExpiration": "2023-01-08",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 31
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2023-02-02",
+        "DateExpiration": "2023-05-13",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 33
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2017-09-20",
+        "DateExpiration": "2017-12-29",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 33
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2016-09-08",
+        "DateExpiration": "2016-12-17",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 38
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2019-06-15",
+        "DateExpiration": "2019-09-23",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 38
+      }
+    ]
+  },
+  {
+    "ID": 8,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2015-05-06",
+        "DateExpiration": "2015-08-14",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 25
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2015-02-07",
+        "DateExpiration": "2015-05-18",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 26
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2019-04-23",
+        "DateExpiration": "2019-08-01",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 26
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2021-08-21",
+        "DateExpiration": "2021-11-29",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 21
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2017-09-08",
+        "DateExpiration": "2017-12-17",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 33
+      },
+      {
+        "ID": 5,
+        "DateProduction": "2019-09-01",
+        "DateExpiration": "2019-12-10",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 34
+      }
+    ]
+  },
+  {
+    "ID": 9,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2021-09-13",
+        "DateExpiration": "2021-12-22",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 24
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2017-03-19",
+        "DateExpiration": "2017-06-27",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 27
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2018-12-20",
+        "DateExpiration": "2019-03-30",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 25
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2017-05-19",
+        "DateExpiration": "2017-08-27",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 32
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2023-02-17",
+        "DateExpiration": "2023-05-28",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 30
+      },
+      {
+        "ID": 5,
+        "DateProduction": "2014-06-02",
+        "DateExpiration": "2014-09-10",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 37
+      }
+    ]
+  },
+  {
+    "ID": 10,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2023-03-06",
+        "DateExpiration": "2023-06-14",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 37
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2014-07-31",
+        "DateExpiration": "2014-11-08",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 37
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2018-01-06",
+        "DateExpiration": "2018-04-16",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 24
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2017-03-01",
+        "DateExpiration": "2017-06-09",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 40
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2014-09-02",
+        "DateExpiration": "2014-12-11",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 22
+      }
+    ]
+  },
+  {
+    "ID": 11,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2019-12-31",
+        "DateExpiration": "2020-04-09",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 26
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2017-11-17",
+        "DateExpiration": "2018-02-25",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 30
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2022-08-23",
+        "DateExpiration": "2022-12-01",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 37
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2022-10-16",
+        "DateExpiration": "2023-01-24",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 39
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2020-05-23",
+        "DateExpiration": "2020-08-31",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 27
+      },
+      {
+        "ID": 5,
+        "DateProduction": "2018-10-29",
+        "DateExpiration": "2019-02-06",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 23
+      },
+      {
+        "ID": 6,
+        "DateProduction": "2019-09-11",
+        "DateExpiration": "2019-12-20",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 36
+      }
+    ]
+  },
+  {
+    "ID": 12,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2022-04-11",
+        "DateExpiration": "2022-07-20",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 29
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2021-10-24",
+        "DateExpiration": "2022-02-01",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 20
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2017-02-13",
+        "DateExpiration": "2017-05-24",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 27
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2020-01-15",
+        "DateExpiration": "2020-04-24",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 21
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2023-06-02",
+        "DateExpiration": "2023-09-10",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 25
+      },
+      {
+        "ID": 5,
+        "DateProduction": "2019-07-10",
+        "DateExpiration": "2019-10-18",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 34
+      }
+    ]
+  },
+  {
+    "ID": 13,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2021-01-07",
+        "DateExpiration": "2021-04-17",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 21
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2018-05-09",
+        "DateExpiration": "2018-08-17",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 37
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2015-08-14",
+        "DateExpiration": "2015-11-22",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 34
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2016-12-02",
+        "DateExpiration": "2017-03-12",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 36
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2022-02-19",
+        "DateExpiration": "2022-05-30",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 34
+      },
+      {
+        "ID": 5,
+        "DateProduction": "2017-05-19",
+        "DateExpiration": "2017-08-27",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 39
+      }
+    ]
+  },
+  {
+    "ID": 14,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2016-12-14",
+        "DateExpiration": "2017-03-24",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 40
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2023-06-21",
+        "DateExpiration": "2023-09-29",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 23
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2016-10-19",
+        "DateExpiration": "2017-01-27",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 24
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2014-04-24",
+        "DateExpiration": "2014-08-02",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 30
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2021-07-19",
+        "DateExpiration": "2021-10-27",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 40
+      }
+    ]
+  },
+  {
+    "ID": 15,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2014-03-20",
+        "DateExpiration": "2014-06-28",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 28
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2014-05-04",
+        "DateExpiration": "2014-08-12",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 27
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2016-06-29",
+        "DateExpiration": "2016-10-07",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 39
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2022-09-19",
+        "DateExpiration": "2022-12-28",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 35
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2021-12-18",
+        "DateExpiration": "2022-03-28",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 21
+      }
+    ]
+  },
+  {
+    "ID": 16,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2019-11-30",
+        "DateExpiration": "2020-03-09",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 21
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2016-11-30",
+        "DateExpiration": "2017-03-10",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 32
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2020-06-11",
+        "DateExpiration": "2020-09-19",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 31
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2023-05-12",
+        "DateExpiration": "2023-08-20",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 33
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2017-07-26",
+        "DateExpiration": "2017-11-03",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 26
+      },
+      {
+        "ID": 5,
+        "DateProduction": "2016-04-21",
+        "DateExpiration": "2016-07-30",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 20
+      }
+    ]
+  },
+  {
+    "ID": 17,
+    "Width": 1500,
+    "Depth": 1500,
+    "Boxes": [
+      {
+        "ID": 0,
+        "DateProduction": "2016-04-21",
+        "DateExpiration": "2016-07-30",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 20
+      },
+      {
+        "ID": 1,
+        "DateProduction": "2021-01-10",
+        "DateExpiration": "2021-04-20",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 33
+      },
+      {
+        "ID": 2,
+        "DateProduction": "2022-12-20",
+        "DateExpiration": "2023-03-30",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 34
+      },
+      {
+        "ID": 3,
+        "DateProduction": "2016-03-10",
+        "DateExpiration": "2016-06-18",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 20
+      },
+      {
+        "ID": 4,
+        "DateProduction": "2016-08-28",
+        "DateExpiration": "2016-12-06",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 33
+      },
+      {
+        "ID": 5,
+        "DateProduction": "2023-05-01",
+        "DateExpiration": "2023-08-09",
+        "Width": 120,
+        "Height": 120,
+        "Depth": 120,
+        "Mass": 21
+      }
+    ]
+  }
+]
